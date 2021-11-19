@@ -7,5 +7,5 @@ It includes:
 - Logistic
 - SVM&Dual&Kernel
 - Multi Classification
-- NN
+- NN  
 Env: Google Colab
